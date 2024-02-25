@@ -1,10 +1,10 @@
-# Foobar
+# JS uploading file functionality
 
 Foobar is a Python library for dealing with word pluralization.
 
-## Installation
+## Live demo
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Click  [preview here](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install foobar
